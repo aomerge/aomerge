@@ -4,11 +4,6 @@
 
 <p align="left">I am Angel Ortega, a passionate software developer specializing in backend with Java and .NET, and frontend with React. With experience in creating cross-platform applications, administrative systems, e-commerce platforms, and more, I also have a strong interest in artificial intelligence and database management. I am always eager to learn and improve, bringing innovative and efficient solutions to every project I work on.</p>
 
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=aomerge&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
